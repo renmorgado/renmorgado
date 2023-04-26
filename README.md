@@ -3,8 +3,8 @@
 
 - 🔭 Trabalho com Análise de Dados
 - 🌱 Estudando Python
-- 📫 How to reach me: renmorgado21@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 E-mail: renmorgado21@gmail.com
+- 😄 Pronome: ele/dele
 
 
 
