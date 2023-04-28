@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com Análise de Dados
-- 🌱 Estudando Python
+- 🌱 Estudando Python e R
 - 📫 E-mail: renmorgado21@gmail.com
 - 😄 Pronome: ele/dele
 
