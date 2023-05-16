@@ -1,6 +1,6 @@
 #### Olá, sou Renato MS 👍
 
-🎓Mestre em Geografia </br>
+🎓Mestrado em Geografia </br>
  👨‍🎓 Bacharelado e Licenciatura em Geografia </br>
  👨‍🎓 Bacharelado em Administração de Empresas </br>
 💡 Interesses em: 💻 Ciência de Dados / 🗺️ Inteligência Geográfica
