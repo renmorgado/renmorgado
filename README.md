@@ -1,4 +1,4 @@
-#### Olá, sou Renato MS 👍
+#### Oi, sou Renato MS 👍
 
 🎓Mestrado em Geografia </br>
  👨‍🎓 Bacharelado e Licenciatura em Geografia </br>
