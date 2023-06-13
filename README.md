@@ -9,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renmorgado21@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renmorgado&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renmorgado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Estudando:
 <div style="display: inline_block">
