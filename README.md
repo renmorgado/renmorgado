@@ -3,7 +3,7 @@
 🎓Mestre em Geografia </br>
  👨‍🎓 Bacharelado e Licenciatura em Geografia </br>
  👨‍🎓 Bacharelado em Administração de Empresas </br>
-💡 Interesses em: 💻 Ciência de Dados / 🗺️ Inteligência Geográfica
+💡 Interesses em: Ciência de Dados / Análise de Dados / Inteligência Geográfica / Geoprocessamento / Estatística
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-morgado-soares-b8a66a41/)
 
