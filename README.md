@@ -16,15 +16,17 @@
 <ul>
 <li>💡 Ciência de Dados </li>
 <li>💡 Análise de Dados </li>
-<li>💡 Inteligência Geográfica </li> 
-<li>💡 Geoprocessamento </li>
-<li>💡 Estatística </li>
-</ul><hr>
-
-![Renmorgado GitHub stats](https://github-readme-stats.vercel.app/api?username=renmorgado&show_icons=true&theme=tokyonight)
+<li>💡 Data Visualization </li> 
+<li>💡 Geoprocessamento / Cartografia </li>
+<li>💡 Estatística / Geoestatísta </li>
+</ul>
 
 <hr>
 <b> Atuação: </b>
+
+![Renmorgado GitHub stats](https://github-readme-stats.vercel.app/api?username=renmorgado&show_icons=true&theme=tokyonight)
+
+
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -38,3 +40,4 @@
 <b> Me encontre: </b>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-morgado-soares-b8a66a41/)
+
