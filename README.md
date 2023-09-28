@@ -1,5 +1,5 @@
-<h3 align="left"> Oi, sou Renato MS 👍 </h3>
-<h4 align="left"> 📚 Muito estudioso e um eterno curioso 🚀 </h4>
+<span style="color: gray;font-size:15px"> Oi, sou Renato MS 👍 </span>
+<h4 align="left;color: white"> 📚 Muito estudioso e um eterno curioso 🚀 </h4>
 
 <h4 align="left"> 🏅 Formado em: 
 <br> . Mestre em Geografia
