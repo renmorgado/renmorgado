@@ -1,5 +1,6 @@
-<span style="color: gray;font-size:15px"> Oi, sou Renato MS 👍 </span>
-<h4 align="left;color: white"> 📚 Muito estudioso e um eterno curioso 🚀 </h4>
+<span style="color: gray;font-size:15px"> 
+Oi, sou Renato MS 👍 <p>
+📚 Muito estudioso e um eterno curioso 🚀
 
 <h4 align="left"> 🏅 Formado em: 
 <br> . Mestre em Geografia
@@ -22,4 +23,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+</span>
 ⭕
