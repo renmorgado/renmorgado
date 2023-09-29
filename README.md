@@ -1,31 +1,23 @@
 <span style="color: white;font-size:15px"> 
-<b> Oi, sou Renato MS 👍 </b>
-<br>
-<br>
-📚 Um estudioso e eterno curioso sobre tudo 🚀 <br>
+Oi, sou renmorgado, <br>
+um estudioso 📚 e eterno curioso sobre tudo do mundo 🚀
+<br><br>
 
-<hr>
-<b> Formado em: </b>
-<li>🏅 Mestre em Geografia </li>
-<li>🏅 Bacharelado e Licenciatura em Geografia </li>
-<li>🏅 Bacharelado em Administração de Empresas </li>
-</ul>
+<b> Formado em: </b> <br>
+🏅 Mestre em Geografia <br>
+🏅 Bacharelado e Licenciatura em Geografia <br>
+🏅 Bacharelado em Administração de Empresas <br>
 
-<hr>
-<b> Interesses: </b>
-<ul>
-<li>💡 Ciência de Dados </li>
-<li>💡 Análise de Dados </li>
-<li>💡 Data Visualization </li> 
-<li>💡 Geoprocessamento / Cartografia </li>
-<li>💡 Estatística / Geoestatísta </li>
-</ul>
+<b> Interesses: </b><br>
+💡 Ciência de Dados <br>
+💡 Análise de Dados <br>
+💡 Data Visualization <br>
+💡 Geoprocessamento / Cartografia <br>
+💡 Estatística / Geoestatísta <br>
 
-<hr>
-<b> Atuação: </b>
+<b> Atuação: </b> <br>
 
 ![Renmorgado GitHub stats](https://github-readme-stats.vercel.app/api?username=renmorgado&show_icons=true&theme=tokyonight)
-
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,6 +30,6 @@
 <hr>
 
 <b> Me encontre: </b>
-<br>
+<br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-morgado-soares-b8a66a41/)
 
