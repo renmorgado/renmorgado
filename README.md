@@ -3,20 +3,6 @@ Oi, sou renmorgado, <br>
 um estudioso 📚 e eterno curioso sobre tudo do mundo 🚀
 <br><br>
 
-<b> Formado em: </b> <br>
-🏅 Mestre em Geografia <br>
-🏅 Bacharelado e Licenciatura em Geografia <br>
-🏅 Bacharelado em Administração de Empresas <br>
-
-<b> Interesses: </b><br>
-💡 Ciência de Dados <br>
-💡 Análise de Dados <br>
-💡 Data Visualization <br>
-💡 Geoprocessamento / Cartografia <br>
-💡 Estatística / Geoestatísta <br>
-
-<b> Atuação: </b> <br>
-
 ![Renmorgado GitHub stats](https://github-readme-stats.vercel.app/api?username=renmorgado&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block">
@@ -27,6 +13,21 @@ um estudioso 📚 e eterno curioso sobre tudo do mundo 🚀
 <img align="center" alt="html5" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 </span>
+
+<hr>
+<b> Formado em: </b> <br>
+🏅 Mestre em Geografia <br>
+🏅 Bacharelado e Licenciatura em Geografia <br>
+🏅 Bacharelado em Administração de Empresas <br>
+
+<br>
+<b> Interesses: </b><br>
+💡 Ciência de Dados <br>
+💡 Análise de Dados <br>
+💡 Data Visualization <br>
+💡 Geoprocessamento / Cartografia <br>
+💡 Estatística / Geoestatísta <br>
+
 <hr>
 
 <b> Me encontre: </b>
