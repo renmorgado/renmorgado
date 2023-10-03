@@ -25,8 +25,8 @@ um estudioso 📚 e eterno curioso sobre tudo do mundo 🚀
 💡 Ciência de Dados <br>
 💡 Análise de Dados <br>
 💡 Data Visualization <br>
-💡 Geoprocessamento / Cartografia <br>
-💡 Estatística / Estatística Geoespacial <br>
+💡 Estatística <br>
+💡 Análise Geoespacial / Geoprocessamento / Cartografia <br>
 
 <hr>
 
